@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of such statutes as are now in force and made in the reigns of K. Ed. 6, Queen Eliz., K. James 1st, &amp; K. Charles the 1st which enjoyn the observation of Lent, and other fish days throughout the year, with the reasons for enjoyning the same.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39459</idno>
+            <idno type="STC">Wing E895</idno>
+            <idno type="STC">ESTC R10188</idno>
+            <idno type="EEBO-CITATION">12999250</idno>
+            <idno type="OCLC">ocm 12999250</idno>
+            <idno type="VID">96451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96451)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 737:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of such statutes as are now in force and made in the reigns of K. Ed. 6, Queen Eliz., K. James 1st, &amp; K. Charles the 1st which enjoyn the observation of Lent, and other fish days throughout the year, with the reasons for enjoyning the same.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hills Jun. for R. Taylor ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: T.H.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lent --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:96451:1"/>
+            <pb n="1" facs="tcp:96451:1" rendition="simple:additions"/>
+            <head>A <hi>Collection</hi> of ſuch <hi>Statutes</hi> as are now in force, and made in the Reigns of K. <hi>Ed.</hi> 6. Queen <hi>Eliz.</hi> K. <hi>James</hi> 1ſt. &amp; K. <hi>Charles</hi> the 1ſt. Which enjoyn the Obſervation of <hi>LENT,</hi> And o<g ref="char:EOLhyphen"/>ther Fiſh days throughout the Year, with the Reaſons for enjoyning the ſame.</head>
+            <p>AND be it further enacted by the Au<g ref="char:EOLhyphen"/>thority <note place="margin">
+                  <hi>The Reaſon<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for the keep<g ref="char:EOLhyphen"/>ing of</hi> Lent <hi>expreſſed in the</hi> Stat. 5. Eliz. <hi>cap.</hi> 5.</note> aforeſaid, for the benefit and Commodity of this Realm to grow, as well in maintenance of the Navy; as in ſpairing and increaſe of Fleſh Victual of this Realm.</p>
+            <p>It ſhall not be lawful for any Perſon within <note place="margin">The forfei<g ref="char:EOLhyphen"/>ture of him that eateth Fleſh upon Fiſh days, and the for<g ref="char:EOLhyphen"/>feiture of him in whoſe houſe it is ea<g ref="char:EOLhyphen"/>ten.</note> this Realm to eat any Fleſh upon any days now uſually obſerved as Fiſh days (upon pain to forfeit Twenty Shillings for every time he ſhall offend, or elſe ſuffer one Months cloſe Impriſonment without Bail or Main-priſe.
+<pb n="2" facs="tcp:96451:2"/> (35 <hi>Eliz.</hi> 7.) And every Perſon within whoſe houſe any ſuch offence ſhall be done: and being privy and knowing thereof, and not effectually puniſhed, and diſclouſing the ſame unto ſome publick Officer, having Au<g ref="char:EOLhyphen"/>thority to puniſh the ſame for every ſuch of<g ref="char:EOLhyphen"/>fence, ſhall forfeit Thirteen Shillings and four pence (35 <hi>Eliz.</hi> 7) All which forfeitures for not abſtaining from Meats ſhall be divided into three equal parts: That is, one part to the uſe of the Queen, the other 't<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Informer, the third to the Common uſe of the Pariſh where the offence ſhall be committed, and to be levied by the Church-Wardens after any Conviction in that behalf. (5 <hi>Eliz.</hi> 5.)</p>
+            <p>But this Act concerning eating of Fleſh ſhall not extend to any Perſons having ſpe<g ref="char:EOLhyphen"/>cial <note place="margin">Condition up<g ref="char:EOLhyphen"/>on Licence, and what ſhall be given to the Poor upon each Li<g ref="char:EOLhyphen"/>cence.</note> Licences upon cauſes contained in the ſame, and grounded according to the Laws of this Realm; every of which Licences ſhall be void, unleſs the ſame contain theſe con<g ref="char:EOLhyphen"/>ditions. <hi>viz.</hi> Every Licence made to any Perſon of the degree of a Lord of the Par<g ref="char:EOLhyphen"/>liament, and his Wife, ſhall be upon con<g ref="char:EOLhyphen"/>dition that they ſhall pay to the Poor Mens Box, within the Pariſh where they remain, <hi>&amp;c.</hi>
+               <pb n="3" facs="tcp:96451:2"/> In the Feaſt of the Purification of our Lady, or within ſix days after, Twenty Six Shil<g ref="char:EOLhyphen"/>lings Eight Pence, and to be paid within one Month next after the ſame Feaſt, upon pain of forfeiture of the ſame Licenſe. A Knight and his Wife ſhall pay Yearly Thir<g ref="char:EOLhyphen"/>teen Shillings Four Pence. Every Perſon under the ſaid degree ſhall pay Yearly Six Sſhillings Eight Pence to the ſaid uſe at the aforeſaid time, and upon the aforeſaid Con<g ref="char:EOLhyphen"/>dition. 5 <hi>Eliz.</hi> 5.</p>
+            <p>All Perſons which by notorious ſickneſs <note place="margin">Who may have Licence and who may give Licence to eat Fleſh upon Fiſh days, and the Fee.</note> ſhall be enforced for the Recovery of their Health to eat Fleſh for the time of their ſick<g ref="char:EOLhyphen"/>neſs, ſhall be Licenſed by the Biſhop of the Dioceſs, or by the Parſon, Vicar, or Curate, of ſuch Pariſh where ſuch Perſon is ſick, or of one of the next Pariſh adjoyning, (if there be no Curate, <hi>&amp;c.</hi> In the ſame Pariſh, or if he be wilfull, which Licence ſhall be ſign<g ref="char:EOLhyphen"/>ed by the Biſhop, Parſon, <hi>&amp;c.</hi> And en<g ref="char:EOLhyphen"/>dure no longer then the time of ſickneſs. And if the ſikneſs continue above Eight days after the Licence granted, it ſhall be Regi<g ref="char:EOLhyphen"/>ſtred in the Church Book, with the know<g ref="char:EOLhyphen"/>ledge of one of the Church-Wardens, and
+<pb n="4" facs="tcp:96451:3"/> the party Licenſed, ſhall give to the Curate Four Pence for every entry, and it ſhall en<g ref="char:EOLhyphen"/>dure no longer but for his ſickneſs, and if any Licence by any Parſon, Vicar, or Curate, be granted to any Perſon, other then ſuch as Evidently appear to have need thereof, by reaſon of their ſickneſs, not only every ſuch Licence ſhall be void, but alſo every ſuch Parſon, Curate, or Vicar, ſhall forfeit for every ſuch Licence, otherwiſe granted, Five Marks. (5 <hi>Eliz.</hi> 5.)</p>
+            <p>Such Perſons as have upon good Conſi<g ref="char:EOLhyphen"/>derations, <note place="margin">Such as have Licence to eat Fleſh upon Fiſh days. muſt have one diſh of Sea Fiſh.</note> any Lawful Licence to eat Fleſh up<g ref="char:EOLhyphen"/>on any Fiſh days, be bound to have for every one Diſh of Fleſh ſerved to be eaten at their Table, one uſual Diſh of Sea Fiſh, freſh or ſalt, to be likewiſe ſerved at the ſame Table &amp; to be eaten, or ſpent, without fraud, or co<g ref="char:EOLhyphen"/>vin as the like kind is, or ſhall be, uſually eaten on, or ſpent on <hi>Saturdays,</hi> (except ſuch Perſons as for ſickneſs, ſhall for that time be Licenced by the Biſhop, Curate, <hi>&amp;c.</hi> Or by reaſon of Age, or other Impediment al<g ref="char:EOLhyphen"/>lowed heretofore, by the Eccleſiaſtical Laws of this Realm,) upon the pain aforeſaid. (5 <hi>Eliz.</hi> 5. 1 <hi>Jac.</hi> 25.)</p>
+            <pb n="5" facs="tcp:96451:3"/>
+            <p> No Butcher or other Perſon, whether he be Licenced or not Licenced to Kill Fleſh, <note place="margin">Fleſh not to be Killed in Lent.</note> ſhall from henceforth at any time, in the time of <hi>Lent,</hi> kill or dreſs to the intent to put to Sale any Ox or Oxen, Beve or Beves, Hogs, Calves, Rams, Ewes, or Wethers, except Oxen or Beves for Victualling of Ships into Forreign Parts, and except all Fleſh to be Killed three days before <hi>Eaſter</hi> Yearly, upon pain to forfeit and looſe the ſame Oxen, Beves, <hi>&amp;c.</hi> So Kil<g ref="char:EOLhyphen"/>led, and dreſſed contrary to this Statute, or the value of them. 1 <hi>Jac.</hi> 29.</p>
+            <p>All Juſtices of the Peace, Mayors, Bay<g ref="char:EOLhyphen"/>liffs, <note place="margin">Officers ſearching for Fleſh Killed in Lent.</note> head Officers, and Conſtables as well of Citties and Towns Corporate as in e<g ref="char:EOLhyphen"/>very County of this Realm, ſhall have full Authority Yearly in time of <hi>Lent,</hi> to enter into all Houſes of Victuallers and Common Victualling Houſes within their Jurisdiction where ſuch offences ſhall be ſuſpected to be committed, and finding any ſuch Oxen, Beves, <hi>&amp;c.</hi> So Killed or Dreſſed, or any part of parcel of the ſame, contrary to this Statute, ſhall take and ſeize the ſame as for<g ref="char:EOLhyphen"/>feited, and ſhall give and diſtribute the ſame
+<pb n="6" facs="tcp:96451:4" rendition="simple:additions"/> to Priſoners, and other poor folks by their diſcretion. 1 <hi>Jac</hi> 29.</p>
+            <p>Every Taverner, Inn-keeper, keeper of <note place="margin">Victuallers dreſſing of Fleſh.</note> every common Tabling-houſe, Common Tipler, Common Cook, or Ale-houſe-kee<g ref="char:EOLhyphen"/>per, Offending at any time hereafter in the dreſſing of any Fleſh Victual contrary to the Statute of <hi>Anno</hi> 5. <hi>Eliz.</hi> Or contrary to this Statute, ſhall not only forfeitall the Fleſh<g ref="char:punc">▪</g> but ſo deſired alſo the penalty impoſed by the ſaid Statute of 5. <hi>Eliz.</hi> for every Offence to be committed, the one half of all which forfeitures, except ſuch forfeitures as ſhall be found, and taken by the Juſtices of Peace, Mayors, Baylifs, Head-Officers and Conſta<g ref="char:EOLhyphen"/>bles according to the Tenor of this Act ſhall be to the <hi>KING,</hi> and the other half to ſuch Perſon or Perſons, as ſhall ſue or inform in any Court of Record for the ſame, by Action of Debt, Bill, Plaint, or Information, wherein no Eſſoine, Protection, or Wager of Law ſhall be allowed, <hi>&amp;c.</hi> 1 <hi>Jac.</hi> 29. To continue till the end of the firſt Seſſion of the next Parliament.</p>
+            <p>A Clauſe in an Act. 3 <hi>Car.</hi> 1. 4. And ſo <note place="margin">Continuance of the former Statute.</note> much of an Act made the <hi>5th</hi> Year of the
+<pb n="7" facs="tcp:96451:4"/> Reign of the late Queen <hi>Eliz.</hi> Intituled, <hi>An Act</hi> touching certain politick Conſtitu<g ref="char:EOLhyphen"/>tions made for the maintenance of the Navy, as it is not repealed by any Statute, nor doth concern the eating of Fleſh, or uſing of Fiſh upon the <hi>Wedneſday,</hi> &amp;c. together, withall, and every other additions, Explanations, and alter<g ref="char:EOLhyphen"/>ations made, theteunto, or thereof or of any part thereof by any Statute, or Statutes made ſince the making of the laſt mentioned Act. And in force the laſt day of the S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion of Parliament that was in the <hi>25th.</hi> Year of the Reign of the late <hi>KING JAMES,</hi> &amp;c. Shall continue in force untill the end of the next Seſſion of Parliament. <note place="margin">Made Per<g ref="char:EOLhyphen"/>petual.</note>
+            </p>
+            <p>By a Clauſe in an Act of 17. <hi>Car.</hi> 1. <hi>Cap.</hi> 4. The aforeſaid Statute is made Perpetual, ſee the Abridgments of the late Statutes, Title Continuance:</p>
+            <p>
+               <hi>Note, that all the time of</hi> Lent, <hi>and every Vi<g ref="char:EOLhyphen"/>gil (or Holy-day-eve) and every</hi> Friday, <hi>and</hi> Saturday, <hi>except</hi> Chriſtmas Day <hi>falls thereon) and the Ember days throughout the whole Year, were uſually obſerved by the Laws and Cuſtoms of the Realm, as Fiſh<g ref="char:EOLhyphen"/>days, which is proved by the preamble of the</hi>
+               <pb n="8" facs="tcp:96451:5"/> 
+               <hi>Statute.</hi> 2. &amp; 3. Edw. 6. Cap. 19. <hi>whereby alſo it is Enacted, that in thoſe time<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch abſtinence ſhould be uſed, and the Stat<g ref="char:punc">▪</g>
+               </hi> 5. &amp; 6. Edw. 6. Cap. 3. <hi>Appoints wha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> days ſhall be kept Holy, the Eves of whic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are only to be obſerved for Fiſh days.</hi>
+            </p>
+            <p>
+               <hi>And by the Stat.</hi> 5 Eliz. 5. <hi>Every</hi> Wedneſday <hi>in the Year, (which ſhall not happen to fal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in</hi> Chriſtmas <hi>or</hi> Eaſter <hi>week) is limited <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be obſerved as a Fiſh day on which day <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> manner of Perſon ſhall eat Fleſh, otherwiſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then ought to be on the Common</hi> Saturday.</p>
+         </div>
+         <trailer>FINIS:</trailer>
+         <byline>By <hi>T. H.</hi> Gent.</byline>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Hills</hi> Jun. For <hi>R. Taylor</hi> near <hi>Statione<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Hall.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
